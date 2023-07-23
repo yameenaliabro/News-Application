@@ -1,3 +1,7 @@
+body{
+  background-color:#efefeff8;
+  background-image: linear-gradient(to right, rgba(0, 0, 255, 0.66), rgb(255, 122, 89));
+}
 .App {
   text-align: center;
 }
