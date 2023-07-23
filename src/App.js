@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="App">
       <Theme>
-        <Carousel/>
         <Navbar />
         <News />
       </Theme>
